@@ -1,0 +1,13 @@
+title: Ashar Shakil
+logo: /assets /img/ashar-headshot.png
+description: Data Analytics Portfolio
+show_downloads: false
+github:
+  is_project_page: false
+theme: jekyll-theme-minimal
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      full-width: true
